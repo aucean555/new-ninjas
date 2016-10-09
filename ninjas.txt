@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 Ninja file merged
+=======
+Ninja file modified
+>>>>>>> 72e1ad54c06424e7784a2b880d74805c958841d3
